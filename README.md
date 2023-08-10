@@ -27,15 +27,8 @@ Acesse meu [Portfólio](https://github.com/OliverDev04)!
   </a>
 </p>
 
-<div align="center">
-  <p align="center"><b>Visitors Count</p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OliverDev04}/count.svg" /></p> 
-  <br>
-</div>
-
-
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/CaiOliveira04">
+  <a href="https://github.com/OliverDev04">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=OliverDev04&show_icons=true&title_color=afafaf&icon_color=30f400&text_color=afafaf&border_color=30f400&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverDev04&title_color=afafaf&icon_color=30f400&text_color=afafaf&border_color=30f400&layout=compact&langs_count=7&theme=transparent"/>
 </div>
