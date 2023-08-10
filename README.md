@@ -27,10 +27,10 @@ Acesse meu [Portfólio](https://github.com/OliverDev04)!
   </a>
 </p>
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/OliverDev04">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=OliverDev04&show_icons=true&title_color=afafaf&icon_color=30f400&text_color=afafaf&border_color=30f400&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverDev04&title_color=afafaf&icon_color=30f400&text_color=afafaf&border_color=30f400&layout=compact&langs_count=7&theme=transparent"/>
+**Minhas estatísticas:**
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=oliverdev04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverdev04&layout=compact&langs_count=16&theme=gotham&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=50&fontColor=afafaf&animation=fadeIn" />
